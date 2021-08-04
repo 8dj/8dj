@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RipPython
+- 👀 I’m interested in Coding Discord Bots
+- 🌱 I’m currently learning node.js and Python
+- 📫 You can reach me by dming me on Discord. Py#9999 ;
